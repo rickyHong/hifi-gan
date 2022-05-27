@@ -1,4 +1,4 @@
-# HiFi-GAN: Generative Adversarial Networks for Efficient and High Fidelity Speech Synthesis
+# HiFi-GAN: Generative Adversarial Networks for Efficient and High Fidelity Speech Synthesis -basic
 
 ### Jungil Kong, Jaehyeon Kim, Jaekyoung Bae
 
